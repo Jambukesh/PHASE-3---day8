@@ -1,0 +1,67 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WebBookstore
+build_property.RootNamespace = WebBookstore
+build_property.ProjectDir = E:\mphasis\problem statement\PHASE3\day8\WebBookstore\WebBookstore\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\mphasis\problem statement\PHASE3\day8\WebBookstore\WebBookstore
+build_property._RazorSourceGeneratorDebug = 
+
+[E:/mphasis/problem statement/PHASE3/day8/WebBookstore/WebBookstore/Views/Bookstores/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va3N0b3Jlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/mphasis/problem statement/PHASE3/day8/WebBookstore/WebBookstore/Views/Bookstores/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va3N0b3Jlc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/mphasis/problem statement/PHASE3/day8/WebBookstore/WebBookstore/Views/Bookstores/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va3N0b3Jlc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/mphasis/problem statement/PHASE3/day8/WebBookstore/WebBookstore/Views/Bookstores/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va3N0b3Jlc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/mphasis/problem statement/PHASE3/day8/WebBookstore/WebBookstore/Views/Bookstores/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va3N0b3Jlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/mphasis/problem statement/PHASE3/day8/WebBookstore/WebBookstore/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/mphasis/problem statement/PHASE3/day8/WebBookstore/WebBookstore/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/mphasis/problem statement/PHASE3/day8/WebBookstore/WebBookstore/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/mphasis/problem statement/PHASE3/day8/WebBookstore/WebBookstore/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/mphasis/problem statement/PHASE3/day8/WebBookstore/WebBookstore/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/mphasis/problem statement/PHASE3/day8/WebBookstore/WebBookstore/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/mphasis/problem statement/PHASE3/day8/WebBookstore/WebBookstore/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-1knnbktg1h
